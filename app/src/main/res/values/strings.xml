@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">service_homework</string>
+    <string name="opov">Оповещения</string>
+    <string name="sound">звук</string>
+    <string name="vibration">вибрация</string>
+    <string name="ot">от</string>
+    <string name="doo">до</string>
+    <string name="logic">Логика</string>
+    <string name="show_window">показать окно</string>
+    <string name="brightness">уменьшить яркость</string>
+    <string name="save">сохранить</string>
+</resources>
